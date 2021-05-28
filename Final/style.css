@@ -1,0 +1,88 @@
+.emma{
+    background-image: linear-gradient(red,maroon);
+    background-repeat: no-repeat;
+}
+.Home{
+    background-image: linear-gradient(gold,purple);
+    background-repeat: no-repeat;  
+    border: solid purple,gold ;
+}
+.Henry{
+    background-image: linear-gradient(teal,blue);
+    background-repeat: no-repeat;
+}
+.Hook{
+    background-image: linear-gradient(Grey,black);
+    background-repeat: no-repeat;
+}
+.navbar{
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+    padding: 5px;
+    border: solid black;
+    background-color: gray;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+    padding: 5px;
+}
+p{
+    width: 600px;
+}
+.flex1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+img{
+    margin: 5px;
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px black;
+}
+.h1p{
+    background-color: teal;
+    width: 625px;
+    font-size: large;
+    border-radius: 20px;
+    border: 5px solid black;
+    box-shadow: 5px 5px 10px black;
+}
+.INFO a{
+    text-decoration: none;
+    color: black;
+}
+footer{
+        background-color: teal;
+        font-size: large;
+        border-radius: 20px;
+        border: 5px solid black;
+        box-shadow: 5px 5px 10px black;
+}
+footer a{
+    text-decoration: none;
+    color:black;
+}
+.p1{
+    border: black solid;
+    background-color: gray;
+    text-align: center;
+    box-shadow: black 5px 5px 5px;
+    margin: 10px;
+}
+.navbar a:hover{
+    font-size: x-large;
+}
+.p23{
+    border: black solid;
+    border-radius: 20px;
+    background-color: darkolivegreen ;
+}
+.p12{
+    border: wheat solid;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
